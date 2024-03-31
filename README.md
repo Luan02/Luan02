@@ -6,7 +6,7 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luan02&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-luan02.vercel.app/api/top-langs/?username=luan02&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="github-readme-stats-kappa-ten-55.vercel.app/api/top-langs/?username=luan02&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
