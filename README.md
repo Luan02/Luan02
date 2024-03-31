@@ -36,10 +36,12 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+
+
+
+
+
 
 ## Contacts:
 
