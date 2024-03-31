@@ -30,7 +30,7 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
 #### Secondary Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Workstation Tools:
 
@@ -38,15 +38,17 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
 
 &nbsp;
 &nbsp;
+<br/>
+<br/>
 
 ## Contacts:
 
-
+<div>
 <a href="https://www.instagram.com/luanoliveira8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:luanoliveiraodj@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luanoliveira98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-&nbsp;&nbsp;
+</div>&nbsp;&nbsp;
  
 
   
