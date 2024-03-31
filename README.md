@@ -12,8 +12,6 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
  &nbsp;
  &nbsp;
 
-
-
 ## My Skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -38,8 +36,6 @@ Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem 
 
 &nbsp;
 &nbsp;
-<br/>
-<br/>
 
 ## Contacts:
 
