@@ -1,7 +1,7 @@
 
 <p align="center">Olá, me chamo Luan Oliveira, sou graduado em Análise e Desenvolvimento de Sistemas, estou em transição de carreira, apaixonado por tecnologia e principalmente pela área de desenvolvimento, área que estou em aprendizado constante, sempre evoluindo e desenvolvendo minha habilidade em solucionar problemas.
 
-Gosto de desafios, pois são eles que nos tiram da zona de conforto e nos fazem crescer constantemente e também são os desafios que vão me fazer alcançar patamares mais altos na carreira como desenvolvedor.
+Gosto de desafios, pois são eles que me tiram da zona de conforto e me faz crescer constantemente e também são os desafios que vão me fazer alcançar patamares mais altos na carreira como desenvolvedor.
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
